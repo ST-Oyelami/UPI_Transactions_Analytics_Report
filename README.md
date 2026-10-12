@@ -60,7 +60,7 @@ Page 1 uses **navigation buttons** so that one visual area can show four differe
 ### Page 1: Monthly Trends with View Switcher
 
 **Balance (Line)**
-![Balance by Month - Line](.UPI1.png)
+![Balance by Month - Line](./UPI1.png)
 
 **Balance (Column)**
 ![Balance by Month - Column](./UPI4.png)
